@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chamsi Hssaine</title>
+    <link>https://chamsihssaine.github.io/</link>
+      <atom:link href="https://chamsihssaine.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chamsi Hssaine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 23:25:59 -0400</lastBuildDate>
+    <image>
+      <url>https://chamsihssaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chamsi Hssaine</title>
+      <link>https://chamsihssaine.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Satisficing Search and Algorithmic Price Competition</title>
+      <link>https://chamsihssaine.github.io/publication/competition/competition/competition/</link>
+      <pubDate>Fri, 04 Sep 2020 23:25:59 -0400</pubDate>
+      <guid>https://chamsihssaine.github.io/publication/competition/competition/competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Signal Design for Incentivizing Team Formation</title>
+      <link>https://chamsihssaine.github.io/publication/team-formation/team-formation/</link>
+      <pubDate>Tue, 04 Sep 2018 23:25:59 -0400</pubDate>
+      <guid>https://chamsihssaine.github.io/publication/team-formation/team-formation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
