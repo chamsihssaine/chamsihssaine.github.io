@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noémie Périvier | Chamsi Hssaine</title>
+    <link>https://chamsihssaine.github.io/author/noemie-perivier/</link>
+      <atom:link href="https://chamsihssaine.github.io/author/noemie-perivier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noémie Périvier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 11:59:59 -0400</lastBuildDate>
+    <image>
+      <url>https://chamsihssaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Noémie Périvier</title>
+      <link>https://chamsihssaine.github.io/author/noemie-perivier/</link>
+    </image>
+    
+    <item>
+      <title>Approximate real-time routing for smart transit systems</title>
+      <link>https://chamsihssaine.github.io/publication/line-planning/line-planning/</link>
+      <pubDate>Fri, 23 Oct 2020 11:59:59 -0400</pubDate>
+      <guid>https://chamsihssaine.github.io/publication/line-planning/line-planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
