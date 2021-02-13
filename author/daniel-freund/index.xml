@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Chamsi Hssaine</title>
-    <link>https://chamsihssaine.github.io/publication-type/3/</link>
-      <atom:link href="https://chamsihssaine.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Daniel Freund | Chamsi Hssaine</title>
+    <link>https://chamsihssaine.github.io/author/daniel-freund/</link>
+      <atom:link href="https://chamsihssaine.github.io/author/daniel-freund/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Freund</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 11:59:59 -0400</lastBuildDate>
     <image>
       <url>https://chamsihssaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>3</title>
-      <link>https://chamsihssaine.github.io/publication-type/3/</link>
+      <title>Daniel Freund</title>
+      <link>https://chamsihssaine.github.io/author/daniel-freund/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://chamsihssaine.github.io/publication/earning-sans-learning/earning-sans-learning/</link>
       <pubDate>Fri, 12 Feb 2021 11:59:59 -0400</pubDate>
       <guid>https://chamsihssaine.github.io/publication/earning-sans-learning/earning-sans-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Approximate real-time routing for smart transit systems</title>
-      <link>https://chamsihssaine.github.io/publication/line-planning/line-planning/</link>
-      <pubDate>Fri, 23 Oct 2020 11:59:59 -0400</pubDate>
-      <guid>https://chamsihssaine.github.io/publication/line-planning/line-planning/</guid>
       <description></description>
     </item>
     

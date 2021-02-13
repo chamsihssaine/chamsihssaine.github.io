@@ -5,12 +5,20 @@
     <link>https://chamsihssaine.github.io/publication/</link>
       <atom:link href="https://chamsihssaine.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 11:59:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 11:59:59 -0400</lastBuildDate>
     <image>
       <url>https://chamsihssaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://chamsihssaine.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Earning Sans Learning: The Impact of Limited Information on Labor Supply in the Gig Economy</title>
+      <link>https://chamsihssaine.github.io/publication/earning-sans-learning/earning-sans-learning/</link>
+      <pubDate>Fri, 12 Feb 2021 11:59:59 -0400</pubDate>
+      <guid>https://chamsihssaine.github.io/publication/earning-sans-learning/earning-sans-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximate real-time routing for smart transit systems</title>
